@@ -1,0 +1,6 @@
+# Automatically assign reviewers for specific branches
+# Format: [pattern] [team or username]
+
+# Code Owners for the feature branches
+* @sbani-test-org/release-managers
+
